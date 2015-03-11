@@ -1,2 +1,2 @@
 # release-test
-Test creating releases
+Updated to version 1.0.2
